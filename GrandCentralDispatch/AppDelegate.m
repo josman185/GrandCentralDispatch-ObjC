@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  GrandCentralDispatch
 //
-//  Created by MCS on 3/16/16.
+//  Created by jose on 3/16/16.
 //  Copyright © 2016 MCS. All rights reserved.
 //
 
